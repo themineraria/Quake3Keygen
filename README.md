@@ -25,6 +25,6 @@ Moreover, as the game is now vintage, these keygens shouldn't harm any sales, or
 
 ## Try it yourselves !
 
-Execute one (or more) of our brewed keygen in the language you're most confortable with, and see for yourself when the key is asked !
+Execute one (or more) of our brewed keygens in the language you're most confortable with, and see for yourself when the key is asked !
 
 ![Alt text](/cd_key_input.png?raw=true "Enter your key")
