@@ -22,3 +22,9 @@ The verification code can be read there, at line 98 :
 This repository has no other goal than having fun over a *so simple* algorithm, with multiple languages, during free time, between friends.
 
 Moreover, as the game is now vintage, these keygens shouldn't harm any sales, or id Software themselves (as they provided the source code of it).
+
+## Try it for yourselves !
+
+Execute one of our brewed keygen and see for yourself when asked !
+
+![Alt text](/cd_key_input.png?raw=true "Enter your key")
