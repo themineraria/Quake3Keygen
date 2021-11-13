@@ -23,8 +23,8 @@ This repository has no other goal than having fun over a *so simple* algorithm, 
 
 Moreover, as the game is now vintage, these keygens shouldn't harm any sales, or id Software themselves (as they provided the source code of it).
 
-## Try it for yourselves !
+## Try it yourselves !
 
-Execute one of our brewed keygen and see for yourself when asked !
+Execute one (or more) of our brewed keygen in the language you're most confortable with, and see for yourself when the key is asked !
 
 ![Alt text](/cd_key_input.png?raw=true "Enter your key")
