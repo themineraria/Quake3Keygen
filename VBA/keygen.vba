@@ -2,8 +2,7 @@
   
   Dim r as New Random
   Dim L as double
-  
-  
+    
   Dim chars(16) As String
   chars = Array("2","3","7","a","b","c","d","g","h","j","l","p","r","s","t","w")
   
