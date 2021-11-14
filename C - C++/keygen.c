@@ -3,7 +3,7 @@
 #include <time.h>
 #include <stdlib.h>
 int main() {
-  char key[16], validChars[16] = {'2', '3', '7', 'a', 'b', 'c', 'd', 'g', 'h', 'j', 'l', 'p', 'r', 's', 't', 'w'};
+  char validChars[16] = {'2', '3', '7', 'a', 'b', 'c', 'd', 'g', 'h', 'j', 'l', 'p', 'r', 's', 't', 'w'};
   srand(time(NULL));
   for (int i = 0; i < 16; i++) {
     printf("%c", validChars[rand()%((16+1)-0) + 0]);
