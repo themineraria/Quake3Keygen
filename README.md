@@ -23,7 +23,7 @@ This repository has no other goal than having fun over a *so simple* algorithm, 
 
 Moreover, as the game is now vintage, these keygens shouldn't harm any sales, or id Software themselves (as they provided the source code of it).
 
-## Try it yourselves !
+## Try it yourself !
 
 Execute one (or more) of our brewed keygens in the language you're most confortable with, and see for yourself when the key is asked !
 
